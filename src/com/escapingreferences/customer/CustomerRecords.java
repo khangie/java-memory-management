@@ -1,4 +1,4 @@
-package com.escapingreferences;
+package com.escapingreferences.customer;
 
 import java.util.Collections;
 import java.util.HashMap;

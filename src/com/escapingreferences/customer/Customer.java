@@ -1,4 +1,4 @@
-package com.escapingreferences;
+package com.escapingreferences.customer;
 
 
 public class Customer implements ICustomerReadOnly {
